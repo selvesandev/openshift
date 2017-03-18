@@ -1,3 +1,4 @@
 <?php
+$version = phpversion();
 
-echo 'Hello World';
+echo 'Hello World '.$version;
